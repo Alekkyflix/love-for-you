@@ -39,10 +39,12 @@ const LoveLetter = () => {
                 Your strength inspires me, your kindness moves me, and your love completes me. 
                 In a world full of uncertainty, you are my constant, my safe harbor, my home. 
                 With you, I've discovered that love isn't just a feeling, it's a choice we make every day, 
+                With you, I've discovered that love isn't just a feeling, it's a choice we make every day, 
                 and I choose you, today and always.
               </p>
               
               <p>
+                Thank you for being you, perfectly imperfect, beautifully authentic, and absolutely amazing. 
                 Thank you for being you, perfectly imperfect, beautifully authentic, and absolutely amazing. 
                 Thank you for loving me, for believing in us, and for making every day feel like a gift.
               </p>

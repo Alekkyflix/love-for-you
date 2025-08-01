@@ -1,6 +1,7 @@
 import { Camera, Calendar, MapPin, Heart } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import memoriesBackground from "@/assets/memories-background.jpg";
+<<<<<<< HEAD
 import coupleImage from "@/assets/1.jpg";
 
 const memories = [
@@ -15,18 +16,44 @@ const memories = [
     date: "A weekend to remember",
     location: "Your place",
     description: "Just you and me, no distractions. We talk and play 🤭🤭."
+=======
+import coupleImage from "@/assets/jowo.jpg";
+
+const memories = [
+  {
+    title: "Our first meet up.",
+    date: "The day everything changed",
+    location: "At my place 🫣😂",
+    description: "Nilikuwa naskia navas..."
+  },
+  {
+    title: "That walk huko nyuma ya shule",
+    date: "An evening to remember",
+    location: "Our little getaway",
+    description: "Just you and me, no distractions. We talked for hours and I fell even deeper in love with your mind and soul."
+>>>>>>> b914e7de2a15c10da0562d96ccb8b9dd1999e3d6
   },
   {
     title: "The moment I knew",
     date: "When I realized",
+<<<<<<< HEAD
     location: "In your 😊😊",
     description: "There was this moment when I looked at you and just knew you were my person💯."
+=======
+    location: "When I walked you to your place ile day 1 tulipatana",
+    description: "There was this moment when I looked at you and just knew you were my little patootie pookie bear."
+>>>>>>> b914e7de2a15c10da0562d96ccb8b9dd1999e3d6
   },
   {
-    title: "Our Daily Adventures",
+    title: "Our stories kila siku",
     date: "Every single day",
+<<<<<<< HEAD
     location: "Everywhere with 🫵🏼",
     description: "Even the simplest moments become adventures when I'm with you. Cooking, watching movies and dancing🕺💃🏼, it's all perfect."
+=======
+    location: "Everywhere with you",
+    description: "Even the simplest moments become adventures when I'm with you. Grocery shopping, cooking, watching movies, even phone calls, it's all perfect."
+>>>>>>> b914e7de2a15c10da0562d96ccb8b9dd1999e3d6
   }
 ];
 
