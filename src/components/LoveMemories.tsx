@@ -1,32 +1,32 @@
 import { Camera, Calendar, MapPin, Heart } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import memoriesBackground from "@/assets/memories-background.jpg";
-import coupleImage from "@/assets/couple-silhouette.jpg";
+import coupleImage from "@/assets/1.jpg";
 
 const memories = [
   {
-    title: "Our First Date",
-    date: "The day everything changed",
+    title: "Our first meet up",
+    date: "After the maandamano huku",
     location: "Where our story began",
-    description: "I was so nervous, but the moment I saw your smile, I knew this was the beginning of something magical."
+    description: "Aki nilikuwa naskia navas😂."
   },
   {
-    title: "That Perfect Weekend",
+    title: "That Perfect Weekends",
     date: "A weekend to remember",
-    location: "Our little getaway",
-    description: "Just you and me, no distractions. We talked for hours and I fell even deeper in love with your mind and soul."
+    location: "Your place",
+    description: "Just you and me, no distractions. We talk and play 🤭🤭."
   },
   {
-    title: "The Moment I Knew",
+    title: "The moment I knew",
     date: "When I realized",
-    location: "In your eyes",
-    description: "There was this moment when I looked at you and just knew - you were my person, my forever, my home."
+    location: "In your 😊😊",
+    description: "There was this moment when I looked at you and just knew you were my person💯."
   },
   {
     title: "Our Daily Adventures",
     date: "Every single day",
-    location: "Everywhere with you",
-    description: "Even the simplest moments become adventures when I'm with you. Grocery shopping, cooking, watching movies - it's all perfect."
+    location: "Everywhere with 🫵🏼",
+    description: "Even the simplest moments become adventures when I'm with you. Cooking, watching movies and dancing🕺💃🏼, it's all perfect."
   }
 ];
 

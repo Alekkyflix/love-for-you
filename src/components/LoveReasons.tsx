@@ -4,43 +4,43 @@ import { Card } from "@/components/ui/card";
 const reasons = [
   {
     icon: Smile,
-    title: "Your Beautiful Smile",
-    description: "The way your eyes light up when you smile makes my heart skip a beat every single time."
+    title: "Your beautiful smile",
+    description: "The way your eyes light up when you smile makes my heart skip a beat every single time.😫"
   },
   {
     icon: Heart,
     title: "Your Kind Heart",
-    description: "You have the most compassionate soul I've ever met. You care for everyone around you with such tenderness."
+    description: "You have the most compassionate soul I've ever met fr. Thanks for alwys listening😍."
   },
   {
     icon: Star,
-    title: "You're My Star",
-    description: "In the darkest nights, you're my guiding light. You make everything brighter just by existing."
+    title: "You're my little nuclear reactor",
+    description: "You always find a way to fill the room🥰💀."
   },
   {
     icon: Sun,
-    title: "Your Warmth",
-    description: "Being with you feels like basking in the warm sunshine on a perfect spring day."
+    title: "Your warmth",
+    description: "Being with you feels like basking in the warm sunshine on a perfect spring day.😉"
   },
   {
     icon: Music,
-    title: "Your Laugh",
-    description: "Your laughter is my favorite song. It fills my heart with joy and makes me fall in love all over again."
+    title: "Your laugh",
+    description: "Your laughter is my favorite song😂. It fills my heart with joy and makes me fall in love all over again."
   },
   {
     icon: Moon,
-    title: "Our Quiet Moments",
-    description: "The peaceful moments we share together are my most treasured memories. Just being near you is home."
+    title: "Our quiet moments",
+    description: "The peaceful moments we share together are my most treasured memories. Acha nisichome 😂😂"
   },
   {
     icon: Flower,
-    title: "Your Beauty",
-    description: "You're more beautiful than any flower, sunset, or work of art. Inside and out, you're absolutely stunning."
+    title: "Your beauty",
+    description: "You're more beautiful than any flower🥀, sunset 🌇, or work of art. Inside and out, you're absolutely stunning."
   },
   {
     icon: Coffee,
-    title: "Our Little Rituals",
-    description: "From morning coffee to bedtime talks, every little moment we share becomes a precious memory."
+    title: "Our little rituals",
+    description: "From morning coffee to bedtime talks, every little moment (even those weird ones🤭😂) we share becomes a precious memory."
   }
 ];
 
