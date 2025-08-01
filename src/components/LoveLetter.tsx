@@ -8,7 +8,7 @@ const LoveLetter = () => {
         <div className="text-center mb-16">
           <PenTool className="w-12 h-12 text-rose mx-auto mb-6 animate-heart-beat" />
           <h2 className="text-5xl md:text-6xl font-bold mb-6 bg-gradient-to-r from-rose-deep to-gold bg-clip-text text-transparent">
-            A Letter From My Heart
+            A letter from my heart
           </h2>
         </div>
 
@@ -19,7 +19,7 @@ const LoveLetter = () => {
             <Sparkles className="absolute -top-2 -right-2 w-6 h-6 text-gold/40 animate-float" style={{ animationDelay: '2s' }} />
             
             <div className="space-y-6 text-lg leading-relaxed text-muted-foreground">
-              <p className="text-2xl text-rose font-semibold mb-8">My Dearest Love,</p>
+              <p className="text-2xl text-rose font-semibold mb-8">My pookie patootie bear 🥺❤️, </p>
               
               <p>
                 As I write this, my heart is overflowing with so much love for you that words seem inadequate. 
@@ -36,23 +36,25 @@ const LoveLetter = () => {
               <p>
                 Your strength inspires me, your kindness moves me, and your love completes me. 
                 In a world full of uncertainty, you are my constant, my safe harbor, my home. 
-                With you, I've discovered that love isn't just a feeling—it's a choice we make every day, 
+                With you, I've discovered that love isn't just a feeling, it's a choice we make every day, 
                 and I choose you, today and always.
               </p>
               
               <p>
-                Thank you for being you—perfectly imperfect, beautifully authentic, and absolutely amazing. 
+                Thank you for being you, perfectly imperfect, beautifully authentic, and absolutely amazing. 
                 Thank you for loving me, for believing in us, and for making every day feel like a gift.
               </p>
               
               <p>
                 I love you more than all the stars in the sky, deeper than the ocean, 
                 and with a love that grows stronger with each passing moment.
+
+                Weeeh English ni ngumu😂😂
               </p>
               
               <div className="pt-8 text-right">
                 <p className="text-2xl text-rose font-semibold">Forever yours,</p>
-                <p className="text-xl text-gold font-medium mt-2">Your loving partner ❤️</p>
+                <p className="text-xl text-gold font-medium mt-2">Your's truly Flix ❤️</p>
               </div>
             </div>
           </div>
@@ -61,7 +63,7 @@ const LoveLetter = () => {
         <div className="text-center mt-12">
           <div className="flex justify-center items-center gap-2 text-muted-foreground">
             <Heart className="w-5 h-5 text-rose animate-heart-beat" />
-            <span className="text-lg">Happy Girlfriend's Day, my love!</span>
+            <span className="text-lg">Happy Girlfriend's Day, Miss Bisieri!</span>
             <Heart className="w-5 h-5 text-rose animate-heart-beat" style={{ animationDelay: '1s' }} />
           </div>
         </div>
